@@ -1,0 +1,30 @@
+.product-container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(209, 209, 209);
+}
+
+.header-product-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.actions {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 247, 236);
+}
+
+.btnBasic {
+    width: 60px;
+    height: 30px;
+}
+
+img {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(230, 230, 230);
+}
